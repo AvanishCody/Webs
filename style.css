@@ -1,0 +1,49 @@
+
+    h1{
+
+            color:darkslategrey;
+
+        }
+
+      /* *{
+
+            border:solid;
+
+        } */
+        header{
+
+            background-color:#507090;
+            display: flex;
+            justify-content: space-between;
+        }
+        .header{ 
+            background-color: #501660;
+             display: flex;
+              justify-content: space-between;
+             }
+        .site-description{ 
+            display: flex;
+             flex-direction: column;
+             justify-content: first baseline; 
+            }
+        .grid{ 
+            display: flex; 
+            flex-wrap: wrap;
+             justify-content: space-evenly; 
+            }
+        .grid{ display: flex;
+             flex-wrap: wrap;
+              justify-content: space-evenly; 
+            }
+        p,h2{ 
+            text-align: center; 
+        }
+
+        body{
+
+            background-color:rgb(144,112,128);
+        }
+
+        /* 128/16 = 8 
+        Reminder = 0 */
+        /* 8+0 = 80 */
